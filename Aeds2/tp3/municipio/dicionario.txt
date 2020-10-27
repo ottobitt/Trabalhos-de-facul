@@ -1,0 +1,303 @@
+Temas disponíveis					
+					
+1. Recursos Humanos					
+2. Planejamento Urbano					
+3. Recursos para a Gestão					
+4. Terceirização e Informatização					
+5. Gestão Ambiental					
+6. Articulação Interinstitucional					
+7. Variáveis externas					
+					
+					
+Código do município					A1
+1. Recursos Humanos					
+1.1 Composição do quadro de pessoal da administração direta					
+1.2 Composição do quadro de pessoal da administração indireta					
+					
+1. Recursos Humanos					
+1.1 Composição do quadro de pessoal da administração direta					
+Total de funcionários ativos da administração direta (1)					A2
+	Total de funcionários ativos da administração direta - Estatutários 				A3
+	Total de funcionários ativos da administração direta - CLT 				A4
+	Total de funcionários ativos da administração direta - Somente comissionados				A5
+	Total de funcionários ativos da administração direta - Estagiários				A6
+	Total de funcionários ativos da administração direta - Sem vínculo permanente 				A7
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+(1) Inclusive os sem declaração de vínculo.					
+(*) Não soube informar - sabe que existe, mas não soube quantificar.					
+					
+1.2 Composição do quadro de pessoal da administração indireta					
+Administração indireta - existência					A8
+					
+Total de funcionários ativos da administração indireta (1)					A9
+	Total de funcionários ativos da administração indireta - Estatutários 				A10
+	Total de funcionários ativos da administração indireta - CLT				A11
+	Total de funcionários ativos da administração indireta - Somente comissionados				A12
+	Total de funcionários ativos da administração indireta - Estagiários 				A13
+	Total de funcionários ativos da administração indireta - Sem vínculo permanente 				A14
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+(1) Inclusive os sem declaração de vínculo.					
+(*) Não soube informar - sabe que existe, mas não soube informar.					
+					
+					
+2. Planejamento Urbano					
+Caracterização do órgão gestor do planejamento urbano no município					A15
+					
+Informações sobre o gestor					
+	Escolaridade				A16
+					
+Plano diretor - existência					A17
+	Ano da lei de criação				A18
+	Ano da última atualização				A19
+	O município está elaborando o Plano Diretor				A20
+					
+Demais instrumentos:					
+	"Legislação sobre área e/ou zona especial de interesse social
+ - existência"				A21
+		Ano da lei			A22
+	Legislação sobre zona e/ou área de especial interesse - existência				A23
+		Ano da lei			A24
+	Lei de perímetro urbano - existência				A25
+		Ano da lei			A26
+	Legislação sobre parcelamento do solo - existência				A27
+		Ano da lei			A28
+	Legislação sobre zoneamento ou uso e ocupação do solo - existência				A29
+		Ano da lei			A30
+	Legislação sobre solo criado ou outorga onerosa do direito de construir - existência				A31
+		Ano da lei			A32
+	Legislação sobre contribuição de melhoria - existência				A33
+		Ano da lei			A34
+	Legislação sobre operação urbana consorciada - existência				A35
+		Ano da lei			A36
+	Legislação sobre estudo de impacto de vizinhança - existência				A37
+		Ano da lei			A38
+	Código de obras - existência				A39
+		Ano da lei			A40
+	Legislação sobre zoneamento ambiental ou zoneamento ecológico-econômico				A41
+		Ano da lei			A42
+	Legislação sobre servidão administrativa				A43
+		Ano da lei			A44
+	Legislação sobre tombamento				A45
+		Ano da lei			A46
+	Legislação sobre unidade de conservação				A47
+		Ano da lei			A48
+	Legislação sobre concessão de uso especial para fins de moradia				A49
+		Ano da lei			A50
+	Legislação sobre usucapião especial de imóvel urbano				A51
+		Ano da lei			A52
+	Legislação sobre direito de superfície				A53
+		Ano da lei			A54
+	Legislação sobre regularização fundiária				A55
+		Ano da lei			A56
+	Legislação sobre a legitimação de posse				A57
+		Ano da lei			A58
+	Legislação sobre estudo prévio de impacto ambiental				A59
+		Ano da lei			A60
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+(*) Não soube informar - sabe que existe, mas não soube informar.					
+					
+3. Recursos para a Gestão					
+3.1 Cadastro do IPTU e ISS					
+3.2 Taxas instituídas					
+3.3 Implantação de empreendimentos					
+3.4 Arranjo produtivo local e Território de cidadania					
+					
+3. Recursos para Gestão Municipal					
+3.1 Cadastro do IPTU e ISS					
+Cadastro imobiliário - existência					A61
+	Cadastro imobiliário informatizado				A62
+	Último ano de atualização completa do cadastro				A63
+					
+O município cobra IPTU					A64
+	Ano da lei 				A65
+					
+Planta Genérica de Valores - existência					A66
+	Planta Genérica de Valores informatizada - existência				A67
+	Último ano de atualização completa da planta				A68
+					
+Cadastro de ISSQN - existência					A69
+	Cadastro de ISSQN informatizado				A70
+	Último ano de atualização completa do cadastro				A71
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+(*) Não soube informar - sabe que existe, mas não soube informar.					
+					
+3.2 Taxas instituídas					
+Cobrança de taxa					A72
+	Taxa de iluminação pública 				A73
+	Taxa de coleta de lixo				A74
+	Taxa de incêndio ou combate a sinistros				A75
+	Taxa de limpeza urbana 				A76
+	Taxa de poder de polícia				A77
+	Outros tipos de taxas				A78
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+3.3 Implantação de Empreendimentos					
+Mecanismos de incentivo à implantação de empreendimento - existência					A79
+	Mecanismos utilizados:				
+		Redução do IPTU			A80
+		Isenção do IPTU			A81
+		Isenção do ISSQN			A82
+		Isenção de taxas			A83
+		Cessão de terrenos			A84
+		Doação de terrenos			A85
+		Outros			A86
+	Tipo de empreendimento beneficiado:				
+		Industrial			A87
+		Comercial e serviços			A88
+		Turismo, esporte e lazer			A89
+		Agropecuário			A90
+		Outros			A91
+	Empreendimento beneficiado em 2014				A92
+		Industrial			A93
+		Comercial e serviços			A94
+		Turismo, esporte e lazer			A95
+		Agropecuário			A96
+		Outros			A97
+					
+Mecanismos de restrição à implantação de empreendimento - existência					A98
+	Mecanismos utilizados:				
+		Legislação			A99
+		Tributação			A100
+		Outro			A101
+	Tipo de empreendimento é aplicado o mecanismo de restrição:				
+		Indústria			A102
+		Indústria extrativa			A103
+		Comercial e serviços			A104
+		Turismo, esporte e lazer			A105
+		Empreendimentos com impacto ambiental			A106
+		Outros			A107
+	Empreendimento com restrição em 2014				A108
+		Indústria			A109
+		Indústria extrativa			A110
+		Comercial e serviços			A111
+		Turismo, esporte e lazer			A112
+		Empreendimentos com impacto ambiental			A113
+		Outros			A114
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+3.4 Arranjo produtivo local e Território de cidadania					
+Existência dentro do território do município Arranjo Produtivo Local					A115
+	Outro(s) município(s) participa(m) deste Arranjo Produtivo Local				A116
+					
+O município faz parte de Território da Cidadania					A117
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+					
+4. Terceirização e Informatização					
+A prefeitura, no ano de 2014, contratou					A118
+	Assessoria para realizar atividades para a contratação de funcionários				A119
+	Assessoria para realizar atividades para pagamento de funcionários				A120
+	Assessoria jurídica				A121
+	Assessoria contábil/financeira				A122
+	Assessoria cartográfica				A123
+	Assessoria para elaboração de projetos para a captação de recursos				A124
+					
+Atividades terceirizadas, mesmo que parcialmente					A125
+	Coleta de resíduo sólido domiciliar				A126
+	Coleta de resíduo sólido hospitalar				A127
+	Coleta de resíduo sólido industrial				A128
+	Limpeza nas unidades prediais da administração municipal				A129
+	Limpeza urbana				A130
+	Segurança das unidades prediais da administração municipal				A131
+	Iluminação pública				A132
+					
+Atividades informatizadas					A133
+	Cadastro e/ou banco de dados de saúde				A134
+	Cadastro e/ou banco de dados de educação				A135
+	Cadastro e/ou banco de dados de patrimônio				A136
+	Controle da execução orçamentária				A137
+	Folha de pagamento				A138
+	Cadastro e/ou banco de dados de funcionários				A139
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+					
+5. Gestão Ambiental					
+Base cartográfica digitalizada - existência					A140
+Sistema de Informação Geográfica - existência					A141
+					
+O município iniciou o processo de elaboração da Agenda 21 Local					A142
+	Estágio atual				A143
+	Fórum da Agenda 21 Local realizou reunião nos últimos 12 meses				A144
+					
+O município realiza licenciamento ambiental					A145
+	Concedeu no ano de 2014				A146
+		Licenças Prévias (LP)			A147
+		Licenças Instalação (LI)			A148
+		Licenças de Operação (LO)			A149
+					
+O município implantou o Cadastro Ambiental Rural - CAR					A150
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+					
+6. Articulação Interinstitucional					
+O município faz parte de consórcio público na área de:					
+	Educação				A151
+		Intermunicipal			A152
+		Estado			A153
+		União			A154
+	Saúde				A155
+		Intermunicipal			A156
+		Estado			A157
+		União			A158
+	Assistência e desenvolvimento social				A159
+		Intermunicipal			A160
+		Estado			A161
+		União			A162
+	Turismo				A163
+		Intermunicipal			A164
+		Estado			A165
+		União			A166
+	Cultura				A167
+		Intermunicipal			A168
+		Estado			A169
+		União			A170
+	Habitação				A171
+		Intermunicipal			A172
+		Estado			A173
+		União			A174
+	Meio ambiente				A175
+		Intermunicipal			A176
+		Estado			A177
+		União			A178
+	Transporte				A179
+		Intermunicipal			A180
+		Estado			A181
+		União			A182
+	Desenvolvimento urbano				A183
+		Intermunicipal			A184
+		Estado			A185
+		União			A186
+	Saneamento básico				A187
+		Intermunicipal			A188
+		Estado			A189
+		União			A190
+	Gestão das águas				A191
+		Intermunicipal			A192
+		Estado			A193
+		União			A194
+	Manejo de resíduos sólidos				A195
+		Intermunicipal			A196
+		Estado			A197
+		União			A198
+					
+Fonte: IBGE, Pesquisa de Informações Básicas Municipais - 2015					
+					
+					
+7. Variáveis Externas					
+Região					A199
+Código da Unidade da Federação					A200
+Sigla da Unidade da Federação					A201
+Nome do município					A202
+Classe de tamanho da população estimada de 2015					A203
+População estimada de 2015*					A204
+					
+*Estimativas da população residente nos municípios brasileiros com data de referência em 1º de julho de 2015.
