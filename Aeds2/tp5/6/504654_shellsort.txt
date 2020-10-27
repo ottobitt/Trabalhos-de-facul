@@ -1,0 +1,1 @@
+504654 	 Numero de comparacoes:427	 Numero de movimentacoes:350	 Tempo:0.948s  	 
