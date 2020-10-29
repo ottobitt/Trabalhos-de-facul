@@ -1,0 +1,140 @@
+1595779279822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofile9p0tjc"
+1595779369207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofile0sarrO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595779371478	Marionette	INFO	Listening on port 51455
+1595779371846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595779380243	Marionette	INFO	Stopped listening on port 51455
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595780127311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileRNamhU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595780132966	Marionette	INFO	Listening on port 64238
+1595780133217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595780145244	Marionette	INFO	Stopped listening on port 64238
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595780746497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileYH79Mb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595780748944	Marionette	INFO	Listening on port 64955
+1595780749143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781179203	Marionette	INFO	Stopped listening on port 64955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595780819802	Marionette	INFO	Listening on port 65073
+1595780820011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595780825795	Marionette	INFO	Stopped listening on port 65073
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595780949784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileN3Z8SP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595780951887	Marionette	INFO	Listening on port 65220
+1595780951914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595780958432	Marionette	INFO	Stopped listening on port 65220
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781278118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofilevcPsbr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781280454	Marionette	INFO	Listening on port 65465
+1595781280759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781286499	Marionette	INFO	Stopped listening on port 65465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781310222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileyJWxFe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781312907	Marionette	INFO	Listening on port 49156
+1595781313371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781322797	Marionette	INFO	Stopped listening on port 49156
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781423362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileH7Q2RF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781425709	Marionette	INFO	Listening on port 49248
+1595781426004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781435720	Marionette	INFO	Stopped listening on port 49248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1595781628735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofile7qrG4D"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781630175	Marionette	INFO	Listening on port 49340
+1595781630294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781637852	Marionette	INFO	Stopped listening on port 49340
+1595781645853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileKKv6xm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781647435	Marionette	INFO	Listening on port 49419
+1595781647897	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781654200	Marionette	INFO	Stopped listening on port 49419
+1595781772592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileCJ5nom"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595781774038	Marionette	INFO	Listening on port 49502
+1595781774118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595781780201	Marionette	INFO	Stopped listening on port 49502
+1595782150978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofilerDH7F9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595782152440	Marionette	INFO	Listening on port 49616
+1595782152523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595782162052	Marionette	INFO	Stopped listening on port 49616
+1595782276869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofilewicoXH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595782278626	Marionette	INFO	Listening on port 49800
+1595782278916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595782288184	Marionette	INFO	Stopped listening on port 49800
+1595782308373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileyYnCkH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595782309997	Marionette	INFO	Listening on port 49977
+1595782310413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595782317295	Marionette	INFO	Stopped listening on port 49977
+1595892188658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GUSTAV~1.PER\\AppData\\Local\\Temp\\rust_mozprofileW4r45w"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595892191667	Marionette	INFO	Listening on port 60522
+1595892191798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lojadogalo.atletico.com.br/scripts/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1595892196476	Marionette	INFO	Stopped listening on port 60522
