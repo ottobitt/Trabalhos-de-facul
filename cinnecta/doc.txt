@@ -1,0 +1,22 @@
+
+    __  ____  ____   ____     ___    __ ______   ____ 
+   /  ]|    ||    \ |    \   /  _]  /  ]      | /    |
+  /  /  |  | |  _  ||  _  | /  [_  /  /|      ||  o  |
+ /  /   |  | |  |  ||  |  ||    _]/  / |_|  |_||     |
+/   \_  |  | |  |  ||  |  ||   [_/   \_  |  |  |  _  |
+\     | |  | |  |  ||  |  ||     \     | |  |  |  |  |
+ \____||____||__|__||__|__||_____|\____| |__|  |__|__|
+                                                      
+
+- A solução do desafio foi pensada da seguinte forma, foi necessário receber 2 arquivos a serem lidos e seu conteúdo transformado
+em string para que se pudesse fazer sua manipulação.
+
+- Após o input dados foi necessário criar listas contendo as palavras, e então normaliza-las para que não houvesse distintinção
+entre case e pontuação.
+
+- Então foram criados os vocabulários, sendo que estes não deveriam conter conteúdo identico, por isso se usou o método set()
+
+- A partir dos vocabulários criados, pode-se gerar a comparação entre os mesmos e os textos, em um loop simples utilizando a função
+count para identificar a ocorrencia das palavras
+
+- Além disso foi implementada função para remover stop-words
